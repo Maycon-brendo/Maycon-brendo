@@ -2,7 +2,7 @@
 
 
 
-- 👨‍💻 atualmente trabalho com java
+- 👨‍💻 engenheiro de software java
 - 🌱 Aprendendo kotlin
 - 📫 How to reach me: 21987769958
 - 😄 Pronouns: ele/dele
